@@ -33,17 +33,17 @@ Clone this repository to your local machine using Git:
    ```bash
    git clone https://github.com/TheodoreGlenn/LifeBalance.git
 
-Usage:
+### Usage:
 
 Launch the app on an Android emulator or physical device.
 Register or log in to your account.
 Set your health and fitness goals for diet, hydration, exercise, and sleep.
 Begin tracking your daily activities and monitor your progress.
 
-System Requirements:
+### System Requirements:
 
 Android Operating System (minimum API level 23, "Marshmallow" or Android 6.0)
 
-Compiler Version:
+### Compiler Version:
 
 Java Development Kit (JDK) 8 or later
