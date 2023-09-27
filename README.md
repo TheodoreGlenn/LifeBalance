@@ -32,6 +32,7 @@ Clone this repository to your local machine using Git:
 
    ```bash
    git clone https://github.com/TheodoreGlenn/LifeBalance.git
+   ```
 
 ### Usage:
 
